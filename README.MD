@@ -36,7 +36,7 @@ Este projeto foi desenvolvido para apresentar um perfil de viajante com:
 
 ## ▶️ Como abrir
 
-acesse: `http://localhost:8000`
+acesse: `https://lucas072-cpu.github.io/perfil-de-viagens/`
 
 ## 📌 Observação
 
