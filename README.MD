@@ -36,7 +36,7 @@ Este projeto foi desenvolvido para apresentar um perfil de viajante com:
 
 ## ▶️ Como abrir
 
-acesse: `https://lucas072-cpu.github.io/perfil-de-viagens/`
+acesse: <a href="https://lucas072-cpu.github.io/perfil-de-viagens/">link aqui</a>
 
 ## 📌 Observação
 
