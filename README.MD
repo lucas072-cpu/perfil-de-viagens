@@ -1,7 +1,7 @@
 # Travelgram | Perfis de Viagem
 
 <p align="center">
-  <img src="./assets/images/Image 01.png" alt="Capa do projeto Travelgram" width="720" />
+  <img src="./assets/images/readme.jpg" alt="Capa do projeto Travelgram" width="720" />
 </p>
 
 Projeto de uma página de perfil de viagens com visual clean, galeria de imagens e layout responsivo.
